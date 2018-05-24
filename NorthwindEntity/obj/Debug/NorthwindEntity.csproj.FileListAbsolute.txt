@@ -1,0 +1,15 @@
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\bin\Debug\NorthwindEntity.dll.config
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\bin\Debug\NorthwindEntity.dll
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\bin\Debug\NorthwindEntity.pdb
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\bin\Debug\EntityFramework.dll
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\bin\Debug\EntityFramework.xml
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\obj\Debug\NorthwindEntity.csproj.CoreCompileInputs.cache
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\obj\Debug\NorthwindEntity.dll
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\obj\Debug\NorthwindEntity.pdb
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\obj\Debug\NorthwindEntity.Migrations.AddNorthwindMigration_11.resources
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\obj\Debug\NorthwindEntity.csproj.GenerateResource.Cache
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\obj\Debug\NorthwindEntity.Migrations.AddNorthwindMigration_12.resources
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\obj\Debug\NorthwindEntity.Migrations.AddNorthwindMigration_13.resources
+C:\Users\Denis_Balashevich\Source\Repos\ORM\NorthwindEntity\obj\Debug\NorthwindEntity.csprojResolveAssemblyReference.cache

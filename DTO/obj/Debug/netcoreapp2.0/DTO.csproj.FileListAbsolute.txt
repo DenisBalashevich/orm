@@ -1,0 +1,9 @@
+C:\Users\Denis_Balashevich\Source\Repos\ORM\DTO\bin\Debug\netcoreapp2.0\DTO.deps.json
+C:\Users\Denis_Balashevich\Source\Repos\ORM\DTO\bin\Debug\netcoreapp2.0\DTO.dll
+C:\Users\Denis_Balashevich\Source\Repos\ORM\DTO\obj\Debug\netcoreapp2.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Denis_Balashevich\Source\Repos\ORM\DTO\obj\Debug\netcoreapp2.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Denis_Balashevich\Source\Repos\ORM\DTO\obj\Debug\netcoreapp2.0\DTO.AssemblyInfo.cs
+C:\Users\Denis_Balashevich\Source\Repos\ORM\DTO\bin\Debug\netcoreapp2.0\DTO.pdb
+C:\Users\Denis_Balashevich\Source\Repos\ORM\DTO\obj\Debug\netcoreapp2.0\DTO.dll
+C:\Users\Denis_Balashevich\Source\Repos\ORM\DTO\obj\Debug\netcoreapp2.0\DTO.pdb
+C:\Users\Denis_Balashevich\Source\Repos\ORM\DTO\obj\Debug\netcoreapp2.0\DTO.csprojResolveAssemblyReference.cache
